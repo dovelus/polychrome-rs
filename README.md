@@ -2,7 +2,7 @@
 This is a example on how to embed a payload into a compute shader.
 The payload is encrypted and decrypted on the GPU.
 
-This is not by any mean a complete implementation it misses crucial OPSEC considerations.
+This is not by any means a complete implementation it misses crucial OPSEC considerations.
 
 ## Usage
 Generate a payload using your preferred method i used the classic calc.exe as an example.
