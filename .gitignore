@@ -1,0 +1,8 @@
+/target
+.idea
+
+*.hlsl
+*.cso
+*.bin
+*.comp
+*.json
